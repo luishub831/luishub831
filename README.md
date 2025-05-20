@@ -74,5 +74,12 @@ As a senior frontend & backend web developer, I have rich experience & history f
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luishub831&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="luishub831's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luishub831&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luishub831&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+  </a>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luishub831&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  </a>
+  
 </p>
 </details>
