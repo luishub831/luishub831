@@ -1,6 +1,6 @@
 ## Hi 👋👋👋 Welcome to my profile.
 <p align="center">
-  <img src="https://github.com/devcoder111/devcoder111/raw/main/cover1.jpg" />
+  <img src="https://github.com/luishub831/luishub831/raw/main/cover1.jpg" />
 </p>
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
@@ -21,7 +21,7 @@ As a senior frontend & backend web developer, I have rich experience & history f
 - 📫 <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=devcoder111&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=luishub831&column=7&theme=onedark"/>
 </p>
 
 ## Used Skills & Tools
@@ -70,9 +70,9 @@ As a senior frontend & backend web developer, I have rich experience & history f
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=devcoder111&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=devcoder111&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Devcoder111's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devcoder111&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <img src = "https://github-readme-stats.vercel.app/api?username=luishub831&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luishub831&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="luishub831's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=luishub831&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 </p>
 </details>
